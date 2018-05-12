@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9516
     wikipedia: http://en.wikipedia.org/wiki/Carolus_Linnaeus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30104#Species-Plantarum-Sections-VI-X
 gutenberg_issued: '2009-09-27'
 gutenberg_type: Text
 identifiers:
